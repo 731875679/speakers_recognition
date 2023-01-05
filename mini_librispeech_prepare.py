@@ -4,8 +4,6 @@ For speaker-id, different sentences of the same speaker must appear in train,
 validation, and test sets. In this case, these sets are thus derived from
 splitting the original training set intothree chunks.
 
-Authors:
- * Mirco Ravanelli, 2021
 """
 
 import os
