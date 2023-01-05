@@ -20,9 +20,6 @@ for each batch during training.
 The first time you run it, this script should automatically download
 and prepare the Mini Librispeech dataset for computation. Noise and
 reverberation are automatically added to each sample from OpenRIR.
-
-Authors
- * Mirco Ravanelli 2021
 """
 import os
 import sys
